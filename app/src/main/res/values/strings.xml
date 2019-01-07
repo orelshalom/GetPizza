@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">GetPizza</string>
+    <string name="login">Login</string>
+    <string name="user_name">Name</string>
+    <string name="user_password">Password</string>
+    <string name="user_email">Email</string>
+    <string name="sign_up">Not have an account? Sign up Here!</string>
+    <string name="user_phone">Phone Number</string>
+    <string name="user_address">Address</string>
+    <string name="sign_up2">Sign Up</string>
+    <string name="registration">Registration</string>
+    <string name="logout">Logout</string>
+    <string name="choose_size">Choose Your Pizza Size</string>
+    <string name="big_size">Big</string>
+    <string name="family_size">Family</string>
+    <string name="personal_size">Personal</string>
+    <string name="continue_to_toppings">Continue</string>
+    <!--<string name="app_name">Soft_App</string>-->
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="Choose">
+        <item>All</item>
+        <item>Right Half</item>
+        <item>Left Half</item>
+    </string-array>
+    <string-array name="status_array">
+        <item>None</item>
+        <item>Delivered</item>
+        <item>In Progress</item>
+        <item>On Your Way</item>
+    </string-array>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="choose_order">Choose an Order</string>
+    <string name="set_status">Set Status</string>
+    <string name="welcome">Welcome To GetPizza!</string>
+    <string name="on_your_way">On Your Way</string>
+    <string name="delivered">Delivered</string>
+    <string name="in_progress">In Progress</string>
+    <string name="choose_status">Choose Order\'s Status</string>
+    <string name="done">Done</string>
+    <string name="to_payment_details">payment</string>
+    <string name="card">choose</string>
+    <string-array name="cards_array">
+        <item>Card</item>
+        <item>Isracard</item>
+        <item>Visa</item>
+        <item>Mastercard</item>
+        <item>American Express</item>
+    </string-array>
+    <string name="card_number">Card number</string>
+    <string-array name="years_array">
+        <item>Year</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+    </string-array>
+    <string-array name="months_array">
+        <item>Month</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string name="identity_num">Identity number</string>
+    <string name="security_code">Security code</string>
+    <string name="confirm">Confirm and Pay</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_status_view">Set Status:</string>
+    <string name="show_client_details">Client Details</string>
+    <string name="order_details_view">Order Details</string>
+
+</resources>
+
+
+

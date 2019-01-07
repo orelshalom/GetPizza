@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">#C22503</item>
+        <!--<item name="android:background">@drawable/pizza_bg</item>-->
+
+    </style>
+
+    <style name="pizza" parent="AppTheme" >
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:textColor">@color/textButton</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:background">#94260d</item>
+
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>
