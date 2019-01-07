@@ -93,15 +93,12 @@ public class ToppingsActivity extends AppCompatActivity implements AdapterView.O
 
         if(edit_mode){//if it is edit mode-got pizza to edit
             pizza= EditPizzaDataHolder.getEditPizzaDataHolder().getPizza();
-//            order.getPizzas().remove(order.getPizzas().size()-1);
             EditPizzaDataHolder.getEditPizzaDataHolder().setEditMode(false);
             checkChecked();
             pizza.toppings.clear();
         }
         else{//new pizza
             pizza= new Pizza();
-            pizza=order.getPizzas().get(order.getPizzas().size()-1);
-            order.getPizzas().remove(order.getPizzas().size()-1);
         }
 
     }
